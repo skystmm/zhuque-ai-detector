@@ -1,6 +1,6 @@
 ---
 name: zhuque-ai-detector
-description: "Playwright + WebSocket 自动调腾讯朱雀 AI 检测"
+description: "Playwright + WebSocket 自动调腾讯朱雀 AI 检测。触发：朱雀、AI检测、AI率检测、AI率、zhuque、detect"
 ---
 
 # 朱雀 AI 检测
